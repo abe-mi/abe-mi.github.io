@@ -11,7 +11,7 @@ I was born in the beautiful but not so interesting town of Allegan, Michigan. I 
 
 I was fortunate enough to land a job at a local automotive dealer after college as a marketing coordinator, a position that allowed me to spearhead the creation of an in-house marketing department that actively studied and strategized different approaches for generating sales. I have been able to apply my data entry and analysis knowledge in a practical setting to analyze data and create valuable reports on performance of marketing/advertising strategies that I personally put in place. I have worked on various projects, ranging from automotive appraisals to social media campaigns to market research studies. Projects that have yielded positive results for the company with an increase in monthly sales of. (insert percentage here)
 
-## Plaid 
+## Hobbies and Interests 
 90's yr 
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
