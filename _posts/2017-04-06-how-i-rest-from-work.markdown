@@ -18,17 +18,13 @@ When I’m not crunching numbers or deep in a spreadsheet, you’ll probably fin
 
 ![I and My friends]({{site.baseurl}}/assets/img/greece.jpg)
 
-Selfies 
+E
 
->Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
+>F
 
-Cronut 
+G
 
-* Hexagon shoreditch beard
-* Intelligentsia narwhal austin
-* Literally meditation four
-* Microdosing hoodie woke
 
-Wayfarers 
+H 
 
-Echo 
+I
