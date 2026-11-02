@@ -11,8 +11,14 @@ tags:  # add tag
 ## Thoughts
 Such a beautiful wedding and by far and away the most fun wedding I have ever had the privalege of attending and participating in.
 
+
+
+
 ## The Ceremony
 ![Jaret and I]({{site.baseurl}}/assets/img/JL_altar_wedding.jpeg)
+
+
+
 
 ## My Best Man Speech
 ![Best Man Speech]({{site.baseurl}}/assets/img/bestman_speech.jpg)
