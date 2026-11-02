@@ -14,13 +14,17 @@ tags: [Holiday, Grand Rapids]
 
 ![I and My friends]({{site.baseurl}}/assets/img/mc-hallowknd-26.jpg)
 
-E
+# Bar List
 
->F
+Social House
+    - Tequila Sunrise
+    - Coors Light
+Tin Can
+    - Tequila Sunrise
+Big Mini
+    - Guinness
+    - Rumplemintz (Ruined the vibe with this one)
+Z's
+    - High Life
 
 G
-
-
-H 
-
-I
