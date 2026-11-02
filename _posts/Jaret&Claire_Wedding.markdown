@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 3
-date: 2025-07-22 
+title: Jaret & Claire's Wedding
+date: 2026-08-01 
 description:  # Add post description (optional)
 img: workflow.jpg # Add image post (optional)
 tags:  # add tag
