@@ -12,7 +12,7 @@ tags: [Holiday, Grand Rapids]
 ## Bar Crawl Start
 
 
-![I and My friends]({{site.baseurl}}/assets/img/mc-hallowknd-26.jpg)
+![My friends and I]({{site.baseurl}}/assets/img/mc-hallowknd-26.jpg)
 
 
 
@@ -33,4 +33,3 @@ Coors Light
 ### Z's
 <small>High Life</small>
 
-G
