@@ -6,7 +6,7 @@ description: At The High Five # Add post description (optional)
 img: jc_wedding.jpeg # Add image post (optional)
 tags:  # add tag
 ---
-![Jaret and I Outside](/abe-mi/assets/img/JL_wedding.jpg)
+![Jaret And Logan]({{site.baseurl}}/assets/img/JL_wedding.jpg)
 
 ## Thoughts
 Such a beautiful wedding and by far and away the most fun wedding I have ever had the privalege of attending and participating in.
@@ -16,6 +16,7 @@ Such a beautiful wedding and by far and away the most fun wedding I have ever ha
 
 ## My Best Man Speech
 ![Best Man Speech]({{site.baseurl}}/assets/img/bestman_speech.jpg)
+
 
 Good evening, everyone. For those of you who don't know me, I'm Logan, Jaret's younger brother.
 When I started thinking about what I wanted to say today, I found myself going back to a lot of childhood memories.
