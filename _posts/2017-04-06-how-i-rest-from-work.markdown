@@ -14,6 +14,8 @@ tags: [Holiday, Grand Rapids]
 
 ![I and My friends]({{site.baseurl}}/assets/img/mc-hallowknd-26.jpg)
 
+
+
 ## Bar List
 
 ### Social House
