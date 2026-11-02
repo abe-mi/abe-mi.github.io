@@ -9,15 +9,15 @@ tags:  # add tag
 ![Jaret and I Outside]({{site.baseurl}}/assets/img/JL-wedding.jpg)
 
 ## Thoughts
->Such a beautiful wedding and by far and away the most fun wedding I have ever had the privalege of attending and participating in.
+Such a beautiful wedding and by far and away the most fun wedding I have ever had the privalege of attending and participating in.
 
 ## The Ceremony
->![Jaret and I]({{site.baseurl}}/assets/img/JL-altar-wedding.jpeg)
+![Jaret and I]({{site.baseurl}}/assets/img/JL-altar-wedding.jpeg)
 
 ## My Best Man Speech
 ![Best Man Speech]({{site.baseurl}}/assets/img/bestman-speech.jpg)
 
->Good evening, everyone. For those of you who don't know me, I'm Logan, Jaret's younger brother.
+Good evening, everyone. For those of you who don't know me, I'm Logan, Jaret's younger brother.
 When I started thinking about what I wanted to say today, I found myself going back to a lot of childhood memories.
 Some of my favorite memories growing up alongside my brother happened at my Aunt Rhonda's house with our cousins, Megan and Abbey. Growing up, it felt like we spent every day there.
 Megan told me something recently that I'd never really thought about before. She said, "It always felt like a competition between the four of us: Abbey and me versus Jaret and Megan."
