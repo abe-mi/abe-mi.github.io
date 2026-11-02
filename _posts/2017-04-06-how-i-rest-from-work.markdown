@@ -18,11 +18,13 @@ tags: [Holiday, Grand Rapids]
 ### Social House
     - Tequila Sunrise
     - Coors Light
+
 ### Tin Can
     - Tequila Sunrise
+
 ### Big Mini
     - Guinness
-    - Rumplemintz (Ruined the vibe with this one)
+    
 ### Z's
     - High Life
 
