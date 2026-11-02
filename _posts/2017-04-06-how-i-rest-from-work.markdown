@@ -15,17 +15,17 @@ tags: [Holiday, Grand Rapids]
 ![I and My friends]({{site.baseurl}}/assets/img/mc-hallowknd-26.jpg)
 
 ## Bar List
+
 ### Social House
-    'Tequila Sunrise'
-    'Coors Light'
+<small>'Tequila Sunrise' · 'Coors Light'</small>
 
 ### Tin Can
-    'Tequila Sunrise'
+<small>'Tequila Sunrise'</small>
 
 ### Big Mini
-    'Guinness'
-    
+<small>'Guinness'</small>
+
 ### Z's
-    'High Life'
+<small>'High Life'</small>
 
 G
