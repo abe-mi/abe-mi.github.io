@@ -6,7 +6,7 @@ description: At The High Five # Add post description (optional)
 img: jc_wedding.jpeg # Add image post (optional)
 tags:  # add tag
 ---
-![Jaret and I Outside ](/abe-mi/assets/img/JL_wedding.jpg)
+![Jaret and I Outside](/abe-mi/assets/img/JL_wedding.jpg)
 
 ## Thoughts
 Such a beautiful wedding and by far and away the most fun wedding I have ever had the privalege of attending and participating in.
