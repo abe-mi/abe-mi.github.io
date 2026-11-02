@@ -16,16 +16,16 @@ tags: [Holiday, Grand Rapids]
 
 ## Bar List
 ### Social House
-    - Tequila Sunrise
-    - Coors Light
+    'Tequila Sunrise'
+    'Coors Light'
 
 ### Tin Can
-    - Tequila Sunrise
+    'Tequila Sunrise'
 
 ### Big Mini
-    - Guinness
+    'Guinness'
     
 ### Z's
-    - High Life
+    'High Life'
 
 G
