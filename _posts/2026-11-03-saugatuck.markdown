@@ -8,24 +8,10 @@ fig-caption: # Add figcaption (optional)
 tags: [Vacation, Saugatuck, Lions]  # add tag
 ---
 
-## Lions Playoff Game
+### Lions Playoff Game
 ![LionsGame]({{sites.baseurl}}/assets/img/lr-saugatuck.jpeg)
 
 Unfortunate loss in the divisional after a historic season
 
-###  B
-C
-
-### D
-E
-
-### F
-G
-
->H
-
-I
-
-J
-
-K
+![Sam]({{sites.baseurl}}/assets/img/sam-saugatuck.jpeg)
+![Romee]({{sites.baseurl}}/assets/img/romee-saugatuck.jpeg)
