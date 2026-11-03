@@ -20,7 +20,7 @@ Such a beautiful wedding and by far and away the most fun wedding I have ever ha
 
 
 
-## My Best Man Speech
+## Best Man Speech
 ![Best Man Speech]({{site.baseurl}}/assets/img/bestman_speech.jpg)
 
 
@@ -52,4 +52,5 @@ I wish you both nothing but happiness in this next chapter together.
 If everyone would please raise a glass.
 To Jaret and Claire—cheers!
 
-E
+## Celebration
+![DanceFloor]({{site.baseurl}}/assets/img/dance_floor_wedding.jpg)
