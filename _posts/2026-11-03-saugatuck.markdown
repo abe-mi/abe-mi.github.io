@@ -3,7 +3,7 @@ layout: post
 title: Family Vacation 
 date: 2025-01-18 
 description: Saugatuck & Playoff Football
-img: group-saugatuck.jpg # Add image post (optional)
+img: group-saugatuck.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Vacation, Saugatuck, Lions]  # add tag
 ---
