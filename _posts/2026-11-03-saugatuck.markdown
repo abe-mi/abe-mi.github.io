@@ -14,4 +14,4 @@ tags: [Vacation, Saugatuck, Lions]  # add tag
 Unfortunate loss in the divisional after a historic season
 
 ![Sam]({{sites.baseurl}}/assets/img/sam-saugatuck.jpeg)
-![Romee]({{sites.baseurl}}/assets/img/romee-saugatuck.jpeg)
+![Romee]({{sites.baseurl}}/assets/img/romee-saugatuck.jpg)
